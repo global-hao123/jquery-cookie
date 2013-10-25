@@ -61,7 +61,7 @@ Create cookie into the combined one:
 $.cookie.set('the_cookie', 'the_vlaue'); // Set into the cookie named HCD_0
 ```
 
-Create expiring cookie into the combined, 7 days from then:
+Create expiring cookie into the combined one, 7 days from then:
 
 ```
 $.cookie.set('the_cookie', 'the_value', { expires: 7 });
@@ -91,7 +91,7 @@ Remove a specified cookie from the combined one:
 $.cookie.del('the_cookie');
 ```
 
-Clear the whole combined cookie
+Clear the whole combined cookie:
 
 ```
 $.cookie.clear();
