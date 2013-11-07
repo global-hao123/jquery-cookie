@@ -12,11 +12,11 @@ A jQuery plugin for cookie control and support multiple cookies combination, and
 
 Require the plugin:
 
-```
+```js
 <script tpye="text/javascript" src='jquery.cookie.js'></script>
 ```
 In FIS:
-```
+```js
 require('common:widget/ui/jquery/jquery.cookie.js');
 ```
 
