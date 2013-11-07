@@ -16,7 +16,7 @@ Require the plugin:
 <script tpye="text/javascript" src="jquery.cookie.js"></script>
 ```
 In FIS:
-```js
+```
 require('common:widget/ui/jquery/jquery.cookie.js');
 ```
 
