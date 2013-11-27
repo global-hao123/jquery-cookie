@@ -1,0 +1,15 @@
+{
+  "name": "jquery-cookie",
+  "version": "1.0.1",
+  "authors": [
+    "fengkun <fengkun@baidu.com>"
+  ],
+  "description": "A jQuery plugin for cookie control and support multiple cookies combination, and you can use it even without the jQuery library.",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "http://gitlab.pro/common-ui/jquery-cookie",
+  "ignore": [
+    "**/*",
+    "!src/**"
+  ]
+}
